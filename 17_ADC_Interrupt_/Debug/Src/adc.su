@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/Embedded Projects/STM32F411 Bare Metal Workspace/F4_chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/adc.c:21:6:pa1_adc_interrupt_init	8	static
+../Src/adc.c:50:6:pa1_adc_init	4	static
+../Src/adc.c:75:6:start_conversion	4	static
+../Src/adc.c:83:10:adc_read	4	static

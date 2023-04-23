@@ -1,0 +1,5 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+adc.c:21:6:pa1_adc_interrupt_init	1
+adc.c:50:6:pa1_adc_init	1
+adc.c:75:6:start_conversion	1
+adc.c:83:10:adc_read	2
